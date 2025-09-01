@@ -5,7 +5,7 @@
 Mi nombre es **Eliza**, estoy interesada en **Ingeniería de datos** 
 <
 
-<p style="text-align: right; font-size: 14px; margin-bottom: 5px;">programando desde casa</p>
+<p style="text-align: right; font-size: 14px; margin-bottom: 5px;"></p>
 
 <div align="right">
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="150" alt="Programando desde casa">
