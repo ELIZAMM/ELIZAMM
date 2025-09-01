@@ -3,6 +3,8 @@
 
 
 Mi nombre es **Eliza**, estoy interesada en **Ingeniería de datos** 
+<
+<img src="images/coding-from-home.png" alt="Coding From Home" width="300"/>
 
 ### Sobre mí
 
