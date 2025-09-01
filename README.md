@@ -17,6 +17,7 @@ Mi nombre es **Eliza**, estoy interesado en **Ingeniería de datos** <img src="h
 ### Conecta conmigo
 
  [LinkedIn](www.linkedin.com/in/eliza-medina-) <!-- Cambia # por tu enlace de LinkedIn -->
+ - 💬 Discord: [@elizamm03](https://linktr.ee/elizamm03)
 
 
 ### 📊 GitHub Stats
