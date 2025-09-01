@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-<!--
+
 
 Mi nombre es **Eliza, estoy interesado en **Ingeniería de datos** <img src="https://em-content.zobj.net/thumbs/120/apple/325/brain_1f9e0.png" width="25px"/>
 
 ### Sobre mí
 
-- ⚒️ Actualmente estoy estudiando con TT.
-- 🚀 Me gusta aprender y conectar. Estoy interesado en **crecimiento personal**, **tecnología** y **mucho deporte**.
+-⚒️ Actualmente estoy estudiando con TT.
+-🚀 Me gusta aprender y conectar. Estoy interesado en **crecimiento personal**, **tecnología** y **mucho deporte**.
 - 🏃 💪🏻Entrenando pesas 
 
 ### Tecnologías y Herramientas
@@ -16,7 +16,7 @@ Mi nombre es **Eliza, estoy interesado en **Ingeniería de datos** <img src="htt
 
 ### Conecta conmigo
 
-- [LinkedIn](www.linkedin.com/in/eliza-medina-) <!-- Cambia # por tu enlace de LinkedIn -->
+ [LinkedIn](www.linkedin.com/in/eliza-medina-) <!-- Cambia # por tu enlace de LinkedIn -->
 
 
 ### 📊 GitHub Stats
@@ -26,4 +26,4 @@ Mi nombre es **Eliza, estoy interesado en **Ingeniería de datos** <img src="htt
 
 
 
--->
+
