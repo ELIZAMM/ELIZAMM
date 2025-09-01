@@ -4,7 +4,9 @@
 
 Mi nombre es **Eliza**, estoy interesada en **Ingeniería de datos** 
 <
-<img src="images/coding-from-home.png" alt="Coding From Home" width="300"/>
+Programando desde casa
+
+![Programando desde casa](https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif)
 
 ### Sobre mí
 
