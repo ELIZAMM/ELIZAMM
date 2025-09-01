@@ -2,13 +2,14 @@
 
 
 
-Mi nombre es **Eliza**, estoy interesado en **Ingeniería de datos** <img src="https://em-content.zobj.net/thumbs/120/apple/325/brain_1f9e0.png" width="25px"/>
+Mi nombre es **Eliza**, estoy interesada en **Ingeniería de datos** 
 
 ### Sobre mí
 
 -⚒️ Actualmente estoy estudiando en TT.
--🚀 Me gusta aprender y conectar. Estoy interesado en **crecimiento personal**, **tecnología** y **mucho deporte**.
-- 🏃 💪🏻Entrenando pesas 
+- 🚀 Me gusta aprender y conectar.
+- Estoy interesado en **crecimiento personal**, **tecnología** y **mucho deporte** 🏃 💪🏻
+
 
 ### Tecnologías y Herramientas
 
