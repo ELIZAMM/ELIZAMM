@@ -19,6 +19,14 @@ Mi nombre es **Eliza**, estoy interesada en **Ingeniería de datos**
 
 ### Conecta conmigo
 
+<p align="left">
+  <img src="https://twemoji.maxcdn.com/v/latest/svg/1f465.svg" alt="People Icon" width="40" />
+  <em><strong>Me encanta conectar con diferentes personas</strong>, así que si quieres saludarme, <strong>¡estaré feliz de conocerte más! :)</strong></em>
+</p>
+
+
+
+
  [LinkedIn](www.linkedin.com/in/eliza-medina-) <!-- Cambia # por tu enlace de LinkedIn -->
  - 💬 Discord: [@elizamm03](https://linktr.ee/elizamm03)
 
